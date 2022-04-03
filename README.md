@@ -23,7 +23,7 @@
 
 # 2. 게임 소개
 
-<img src="page_img/logo.png“></img>
+<img src="page_img/logo.png“> </img>
 
 차후 추가
 
