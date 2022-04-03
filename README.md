@@ -1,94 +1,43 @@
-<header>
-        <h1><a href="https://wonjun-c.github.io/wonjun-c/">wwwww</a></h1>
 
-
-
-        <p>Config files for my GitHub profile.</p>
-
-
-        <p class="view"><a href="https://github.com/wonjun-c/wonjun-c">View the Project on GitHub <small>wonjun-c/wonjun-c</small></a></p>
-
-
-
-
-
-</header>
 
 # 2022 캡스톤 디자인 46팀
 
-- 팀원
-  - 20163165 최민혁
-  - 20163168 최원준
-
-##
-
-- 프로젝트 소개
-  - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
-  - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
-
-- 팀페이지 꾸미기
-  - 프로젝트 소개 및 팀원 소개
-  - index.md 예시보고 수정.
-
-- GitHub Pages 리파지토리 Settings > Options > GitHub Pages
-  - Source를 marster branch
-  - Theme Chooser에서 태마선택
-  - 수정후 팀페이지 확인하여 점검.
-
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2020년 0조  https://kookmin-sw.github.io/capstone-2020-0/
+**팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2022-46/
 
 
-## 내용에 아래와 같은 내용들을 추가하세요.
+
+
+
 
 ### 1. 프로잭트 소개
 
 프로젝트
+ - 높아지는 그래픽과, 사양이 주류가 된 최근의 게임 시장에서 간단한 2D 도트 게임이지만
+   큰 인기를 끈 '뱀파이어 서바이벌' 이라는 게임이 있었다. 이 게임을 보면서 왜 유저들이
+   이런 간단한 게임에 열광했는지에 대해 생각해 보게 되었고, '간단하게 즐길수 있다',
+   '캐릭터를 성장시키는 재미가 있다' 라는 두가지 요소에 주목하게 되었다.
+   이를 통해 바쁜 현대인들이, 간단하게 즐길수 있으면서도, 강한 중독성으로 계속해서
+   플레이를 할 수 있는 게임을 만들어 보고싶다는 생각을 하게 되었다.
+
+Abstract
 
 ### 2. 소개 영상
 
-프로젝트 소개하는 영상을 추가하세요
+차후 추가
 
 ### 3. 팀 소개
 
-팀을 소개하세요.
+팀원
+- 20163165 최민혁
+  - 적, 보스 패턴 개발, 게임 스테이지 담당
+- 20163168 최원준
+  - 캐릭터, 아이템 ,UI 및 디자인
 
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
 
-### 4. 사용법
+### 4. 게임 이용법
 
-소스코드제출시 설치법이나 사용법을 작성하세요.
+차후추가
 
 ### 5. 기타
 
 추가적인 내용은 자유롭게 작성하세요.
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
