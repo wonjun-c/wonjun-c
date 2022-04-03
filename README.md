@@ -23,8 +23,7 @@
 
 # 2. 게임 소개
 
-![logo](https://user-images.githubusercontent.com/31951411/161441839-a7f36d21-0fcb-4483-b583-31e839b4ea96.png)
-<p align="center"> <img src="page_img/logo.png" width="350" title="hover text"> </p>
+<p> <img src="page_img/logo.png" width="350" title="hover text"> </p>
 
 
 차후 추가
