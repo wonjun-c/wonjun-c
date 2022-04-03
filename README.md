@@ -24,6 +24,7 @@
 # 2. 게임 소개
 
 ![logo](https://user-images.githubusercontent.com/31951411/161441839-a7f36d21-0fcb-4483-b583-31e839b4ea96.png)
+![Optional Text](../master/page_img/logo.png)
 
 
 차후 추가
