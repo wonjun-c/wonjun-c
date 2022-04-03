@@ -23,7 +23,7 @@
 
 # 2. 게임 소개
 
-<p> <img src="page_img/logo.png" width="350" title="hover text"> </p>
+<p> <img src="page_img/test.png"> </p>
 
 
 차후 추가
