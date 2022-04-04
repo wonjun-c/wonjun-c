@@ -27,7 +27,7 @@
 </p>
 
 
-<br>
+<hr>
 ### -게임 플레이-
 <p> <img src="page_img/play_scene.png">  
 </p>
