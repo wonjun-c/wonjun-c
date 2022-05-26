@@ -61,7 +61,7 @@
 ## 4. 게임 이용법
 
 * 모바일
-<p> <img src="page_img/qr.png" ></p>
+<p> <img src="page_img/qr.jpg" ></p>
 
 
 ## 5. 기타
