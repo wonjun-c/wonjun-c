@@ -65,7 +65,7 @@
 <p> <img src="page_img/qr.jpg" width="200" height="200"></p>
 
 2. 빨간부분의 링크를 클릭
-<p> <img src="page_img/m1.jpg" width="200" height="300"></p>
+<p> <img src="page_img/m1.jpg" ></p>
 
 3. apk파일을 다운로드 한뒤, 설치해준다.
 <p> <img src="page_img/m2.jpg" width="200" height="300"></p>
