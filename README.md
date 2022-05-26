@@ -41,7 +41,6 @@
 ---------------------------------------
 **소개 동영상**
 
-<br>
 [![Alttext](http://img.youtube.com/vi/lKygw1w8_xg/0.jpg)](https://www.youtube.com/watch?v=lKygw1w8_xg)
 
 ## 3. 팀 소개
